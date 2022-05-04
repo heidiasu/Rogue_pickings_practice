@@ -3,6 +3,21 @@ html, body {
   width: 100%;
 }
 
+
+/*GRID  */
+
+.full-width {
+  width: 1280px;
+  padding: 0 25px;
+}
+
+
+.half-width {
+  float: left;
+  width: 640px;
+}
+
+
 .half-width h1 {
   text-transform: uppercase;
   font-size: 30px;
